@@ -1,0 +1,9 @@
+c:\QLDH\DAO\bin\Debug\DAO.dll
+c:\QLDH\DAO\bin\Debug\DAO.pdb
+c:\QLDH\DAO\bin\Debug\DTO.dll
+c:\QLDH\DAO\bin\Debug\DTO.pdb
+c:\QLDH\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+c:\QLDH\DAO\obj\Debug\DAO.dll
+c:\QLDH\DAO\obj\Debug\DAO.pdb
+c:\QLDH\BIN\DAO.dll
+c:\QLDH\BIN\DAO.pdb
