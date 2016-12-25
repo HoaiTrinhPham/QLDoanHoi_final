@@ -1,0 +1,17 @@
+c:\QLDH\QLDH\bin\Debug\QLDH.exe
+c:\QLDH\QLDH\bin\Debug\QLDH.pdb
+c:\QLDH\QLDH\obj\x86\Debug\QLDH.Form1.resources
+c:\QLDH\QLDH\obj\x86\Debug\QLDH.FormDangNhap.resources
+c:\QLDH\QLDH\obj\x86\Debug\QLDH.Properties.Resources.resources
+c:\QLDH\QLDH\obj\x86\Debug\QLDH.csproj.GenerateResource.Cache
+c:\QLDH\QLDH\obj\x86\Debug\QLDH.exe
+c:\QLDH\QLDH\obj\x86\Debug\QLDH.pdb
+c:\QLDH\QLDH\bin\Debug\QLDH.exe.config
+c:\QLDH\BIN\QLDH.exe.config
+c:\QLDH\BIN\QLDH.exe
+c:\QLDH\BIN\QLDH.pdb
+c:\QLDH\QLDH\obj\x86\Debug\QLDH.csprojResolveAssemblyReference.cache
+c:\QLDH\QLDH\obj\x86\Debug\QLDH.FormCheckIn.resources
+c:\QLDH\QLDH\obj\x86\Debug\QLDH.FormChuongTrinh.resources
+c:\QLDH\QLDH\obj\x86\Debug\QLDH.FormSinhVien.resources
+c:\QLDH\QLDH\obj\x86\Debug\QLDH.FormReport.resources
