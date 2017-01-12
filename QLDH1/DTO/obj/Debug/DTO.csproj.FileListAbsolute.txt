@@ -1,0 +1,6 @@
+c:\QLDH\DTO\bin\Debug\DTO.dll
+c:\QLDH\DTO\bin\Debug\DTO.pdb
+c:\QLDH\DTO\obj\Debug\DTO.dll
+c:\QLDH\DTO\obj\Debug\DTO.pdb
+c:\QLDH\BIN\DTO.dll
+c:\QLDH\BIN\DTO.pdb

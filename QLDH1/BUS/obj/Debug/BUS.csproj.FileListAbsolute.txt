@@ -1,0 +1,9 @@
+c:\QLDH\BUS\bin\Debug\BUS.dll
+c:\QLDH\BUS\bin\Debug\BUS.pdb
+c:\QLDH\BUS\bin\Debug\DAO.dll
+c:\QLDH\BUS\bin\Debug\DAO.pdb
+c:\QLDH\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+c:\QLDH\BUS\obj\Debug\BUS.dll
+c:\QLDH\BUS\obj\Debug\BUS.pdb
+c:\QLDH\BIN\BUS.dll
+c:\QLDH\BIN\BUS.pdb
