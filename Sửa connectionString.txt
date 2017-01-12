@@ -1,0 +1,2 @@
+﻿<add name="cnStr" connectionString="Server = .;Database = QLyDoanHoi;  Integrated security = true;"/>
+Sửa connectionString trong Apps.config, với Server bằng Server đã cài trong SqlServer.
