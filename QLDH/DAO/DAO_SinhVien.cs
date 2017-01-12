@@ -60,7 +60,8 @@ namespace DAO
                 da.Connect();
                 SqlDataReader dr = da.ExecuteReader(sql);
                 string MSSV = "", HoSV = "", TenSV = "", GioiTinh = "", QueQuan = "", TonGiao = "", DanToc = "", MaCD = "", MaKhoa = "";
-                DateTime NgaySinh = DateTime.Now;
+                DateTime today = DateTime.Now;
+                DateTime NgaySinh = Convert.ToDateTime(today.ToShortDateString());
                 while (dr.Read())
                 {
                     MSSV = dr[0].ToString();

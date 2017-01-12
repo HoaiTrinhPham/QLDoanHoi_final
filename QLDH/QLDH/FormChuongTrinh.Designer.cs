@@ -59,7 +59,7 @@
             this.btn_ThemCT.Location = new System.Drawing.Point(15, 282);
             this.btn_ThemCT.Name = "btn_ThemCT";
             this.btn_ThemCT.Size = new System.Drawing.Size(115, 37);
-            this.btn_ThemCT.TabIndex = 1;
+            this.btn_ThemCT.TabIndex = 5;
             this.btn_ThemCT.Text = "Thêm";
             this.btn_ThemCT.UseVisualStyleBackColor = true;
             this.btn_ThemCT.Click += new System.EventHandler(this.btn_ThemCT_Click);
@@ -69,7 +69,7 @@
             this.btn_SuaCT.Location = new System.Drawing.Point(180, 282);
             this.btn_SuaCT.Name = "btn_SuaCT";
             this.btn_SuaCT.Size = new System.Drawing.Size(115, 37);
-            this.btn_SuaCT.TabIndex = 2;
+            this.btn_SuaCT.TabIndex = 6;
             this.btn_SuaCT.Text = "Sửa";
             this.btn_SuaCT.UseVisualStyleBackColor = true;
             this.btn_SuaCT.Click += new System.EventHandler(this.btn_SuaCT_Click);
@@ -79,7 +79,7 @@
             this.btn_XoaCT.Location = new System.Drawing.Point(347, 282);
             this.btn_XoaCT.Name = "btn_XoaCT";
             this.btn_XoaCT.Size = new System.Drawing.Size(115, 37);
-            this.btn_XoaCT.TabIndex = 3;
+            this.btn_XoaCT.TabIndex = 7;
             this.btn_XoaCT.Text = "Xóa";
             this.btn_XoaCT.UseVisualStyleBackColor = true;
             this.btn_XoaCT.Click += new System.EventHandler(this.btn_XoaCT_Click);
@@ -108,7 +108,7 @@
             this.txtTenCT.Location = new System.Drawing.Point(96, 385);
             this.txtTenCT.Name = "txtTenCT";
             this.txtTenCT.Size = new System.Drawing.Size(136, 20);
-            this.txtTenCT.TabIndex = 6;
+            this.txtTenCT.TabIndex = 2;
             // 
             // label3
             // 
@@ -141,7 +141,7 @@
             this.txtThoiGianBatDau.Location = new System.Drawing.Point(344, 381);
             this.txtThoiGianBatDau.Name = "txtThoiGianBatDau";
             this.txtThoiGianBatDau.Size = new System.Drawing.Size(119, 20);
-            this.txtThoiGianBatDau.TabIndex = 11;
+            this.txtThoiGianBatDau.TabIndex = 4;
             // 
             // cbCapDo
             // 
@@ -150,14 +150,14 @@
             this.cbCapDo.Location = new System.Drawing.Point(342, 335);
             this.cbCapDo.Name = "cbCapDo";
             this.cbCapDo.Size = new System.Drawing.Size(121, 21);
-            this.cbCapDo.TabIndex = 12;
+            this.cbCapDo.TabIndex = 3;
             // 
             // txtMaCT
             // 
             this.txtMaCT.Location = new System.Drawing.Point(96, 336);
             this.txtMaCT.Name = "txtMaCT";
             this.txtMaCT.Size = new System.Drawing.Size(136, 20);
-            this.txtMaCT.TabIndex = 13;
+            this.txtMaCT.TabIndex = 1;
             // 
             // FormChuongTrinh
             // 

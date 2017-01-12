@@ -129,11 +129,13 @@ namespace DAO
 
         public int ThemThongTinCheckIn(string MaCT, string MSSV)
         {
-            string sql = @"INSERT INTO ThamGiaChuongTrinh VALUES ('" + MaCT + "', '" + MSSV + "')";
+            //string sql = @"INSERT INTO ThamGiaChuongTrinh VALUES ('" + MaCT + "', '" + MSSV + "')";
+            string sql = @"INSERT INTO DiemDanh VALUES ('" + MaCT + "', '" + MSSV + "')";
             try
             {
                 da.Connect();
                 int rt = (int)da.ExecuteNonQuery(sql);
+                //rt = (int)da.ExecuteNonQuery(sql2);
                 da.Disconnet();
                 return rt;
             }
@@ -197,7 +199,7 @@ namespace DAO
 
         public List<string> DanhSachChuongTrinhSVThamGia(string MaSV) 
         {
-            string sql = @"SELECT MaChuongTrinh FROM DiemDanh WHERE MSSV LIKE N'%" + MaSV + "%'";
+            string sql = @"SELECT MaChuongTrinh FROM DiemDanh WHERE MSSV='" + MaSV + "'";
             List<string> lstDSThamGia = new List<string>();
             try
             {

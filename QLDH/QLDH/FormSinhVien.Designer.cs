@@ -58,7 +58,7 @@
             this.btn_XoaSV.Location = new System.Drawing.Point(469, 294);
             this.btn_XoaSV.Name = "btn_XoaSV";
             this.btn_XoaSV.Size = new System.Drawing.Size(115, 37);
-            this.btn_XoaSV.TabIndex = 7;
+            this.btn_XoaSV.TabIndex = 12;
             this.btn_XoaSV.Text = "Xóa";
             this.btn_XoaSV.UseVisualStyleBackColor = true;
             this.btn_XoaSV.Click += new System.EventHandler(this.btn_XoaSV_Click);
@@ -68,7 +68,7 @@
             this.btn_SuaSV.Location = new System.Drawing.Point(302, 294);
             this.btn_SuaSV.Name = "btn_SuaSV";
             this.btn_SuaSV.Size = new System.Drawing.Size(115, 37);
-            this.btn_SuaSV.TabIndex = 6;
+            this.btn_SuaSV.TabIndex = 11;
             this.btn_SuaSV.Text = "Sửa";
             this.btn_SuaSV.UseVisualStyleBackColor = true;
             this.btn_SuaSV.Click += new System.EventHandler(this.btn_SuaSV_Click);
@@ -78,7 +78,7 @@
             this.btn_ThemSV.Location = new System.Drawing.Point(137, 294);
             this.btn_ThemSV.Name = "btn_ThemSV";
             this.btn_ThemSV.Size = new System.Drawing.Size(115, 37);
-            this.btn_ThemSV.TabIndex = 5;
+            this.btn_ThemSV.TabIndex = 10;
             this.btn_ThemSV.Text = "Thêm";
             this.btn_ThemSV.UseVisualStyleBackColor = true;
             this.btn_ThemSV.Click += new System.EventHandler(this.btn_ThemSV_Click);
@@ -107,7 +107,7 @@
             this.txtHoSV.Location = new System.Drawing.Point(333, 354);
             this.txtHoSV.Name = "txtHoSV";
             this.txtHoSV.Size = new System.Drawing.Size(121, 20);
-            this.txtHoSV.TabIndex = 9;
+            this.txtHoSV.TabIndex = 2;
             // 
             // cbGioiTinh
             // 
@@ -116,14 +116,14 @@
             this.cbGioiTinh.Location = new System.Drawing.Point(94, 388);
             this.cbGioiTinh.Name = "cbGioiTinh";
             this.cbGioiTinh.Size = new System.Drawing.Size(60, 21);
-            this.cbGioiTinh.TabIndex = 10;
+            this.cbGioiTinh.TabIndex = 4;
             // 
             // txtTenSV
             // 
             this.txtTenSV.Location = new System.Drawing.Point(568, 352);
             this.txtTenSV.Name = "txtTenSV";
             this.txtTenSV.Size = new System.Drawing.Size(123, 20);
-            this.txtTenSV.TabIndex = 12;
+            this.txtTenSV.TabIndex = 3;
             // 
             // label2
             // 
@@ -139,7 +139,7 @@
             this.txtMSSV.Location = new System.Drawing.Point(94, 352);
             this.txtMSSV.Name = "txtMSSV";
             this.txtMSSV.Size = new System.Drawing.Size(121, 20);
-            this.txtMSSV.TabIndex = 14;
+            this.txtMSSV.TabIndex = 1;
             // 
             // label3
             // 
@@ -170,11 +170,11 @@
             // 
             // dateTimePicker1
             // 
-            this.dateTimePicker1.Format = System.Windows.Forms.DateTimePickerFormat.Short;
+            this.dateTimePicker1.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.dateTimePicker1.Location = new System.Drawing.Point(333, 383);
             this.dateTimePicker1.Name = "dateTimePicker1";
             this.dateTimePicker1.Size = new System.Drawing.Size(121, 20);
-            this.dateTimePicker1.TabIndex = 17;
+            this.dateTimePicker1.TabIndex = 5;
             // 
             // label6
             // 
@@ -192,7 +192,8 @@
             this.cbQueQuan.Location = new System.Drawing.Point(333, 416);
             this.cbQueQuan.Name = "cbQueQuan";
             this.cbQueQuan.Size = new System.Drawing.Size(121, 21);
-            this.cbQueQuan.TabIndex = 19;
+            this.cbQueQuan.TabIndex = 8;
+            this.cbQueQuan.SelectedIndexChanged += new System.EventHandler(this.cbQueQuan_SelectedIndexChanged);
             // 
             // cbTonGiao
             // 
@@ -201,7 +202,7 @@
             this.cbTonGiao.Location = new System.Drawing.Point(568, 380);
             this.cbTonGiao.Name = "cbTonGiao";
             this.cbTonGiao.Size = new System.Drawing.Size(123, 21);
-            this.cbTonGiao.TabIndex = 21;
+            this.cbTonGiao.TabIndex = 6;
             this.cbTonGiao.SelectedValueChanged += new System.EventHandler(this.cbTonGiao_SelectedValueChanged);
             // 
             // label7
@@ -220,7 +221,7 @@
             this.cbDanToc.Location = new System.Drawing.Point(568, 413);
             this.cbDanToc.Name = "cbDanToc";
             this.cbDanToc.Size = new System.Drawing.Size(123, 21);
-            this.cbDanToc.TabIndex = 23;
+            this.cbDanToc.TabIndex = 9;
             // 
             // label8
             // 
@@ -238,7 +239,7 @@
             this.cbChiDoan.Location = new System.Drawing.Point(94, 418);
             this.cbChiDoan.Name = "cbChiDoan";
             this.cbChiDoan.Size = new System.Drawing.Size(121, 21);
-            this.cbChiDoan.TabIndex = 29;
+            this.cbChiDoan.TabIndex = 7;
             // 
             // label9
             // 
